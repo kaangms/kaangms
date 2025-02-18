@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Occicor Inc.<br>💬 Ask me about Dart, Flutter, C# <br> 
+🔭 I’m currently working on Yuddy Inc.<br>💬 Ask me about Dart, Flutter, C# <br> 
 
 
 ## 🌐 Socials:
