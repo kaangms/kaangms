@@ -1,6 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on Yuddy Inc.<br>💬 Ask me about Dart, Flutter, C# <br> 
+## 💫 About Me
 
+🔭 I’m currently working as a **Senior Software Engineer, where I architect and develop event-driven microservices using **.NET Core** and **Apache Kafka** to streamline e-commerce operations on a unified platform.
+
+📱 I specialize in building cross-platform mobile applications using **Flutter**, with experience in native integrations and CI/CD pipelines for **Google Play Store** and **Apple App Store**.
+
+☁️ Skilled in cloud-native architectures, especially **Google Kubernetes Engine (GKE)**, **Redis**, **Elasticsearch**, and CI/CD automation via **GitHub Actions** and **Google Artifact Registry**.
+
+💬 Feel free to ask me about:
+- `C# / .NET Core`
+- `Flutter & Dart`
+- `Apache Kafka & RabbitMQ`
+- `Redis & PostgreSQL`
+- `Kubernetes & Cloud Architecture`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hkg05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gumus.kaan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kaan-Gumus) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2209318289) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KaanGumus93) 
